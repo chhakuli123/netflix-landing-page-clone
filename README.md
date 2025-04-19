@@ -11,13 +11,10 @@ A clone of the Netflix landing page built with HTML, Tailwind CSS, and JavaScrip
 
 ## 📸 Screenshots
 
-### 🎥 Hero Section
 ![Hero Section](./assets/hero-section.png)
 
-### 📺 TV Showcase Section
 ![TV Showcase](./assets/image-2.png)
 
-### 📱 Mobile Preview Section
 ![Mobile Preview](./assets/image-3.png)
 
 
